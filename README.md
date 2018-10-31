@@ -3,7 +3,7 @@
 
 ## This blog post contains some explanations and general overview  https://manaminer.github.io/DataVisualization-and-Manipulating-on-LOL-Game/
 
-### The Dataset is from Kaggle https://www.kaggle.com/paololol/league-of-legends-ranked-matches
+#### The Dataset is from Kaggle https://www.kaggle.com/paololol/league-of-legends-ranked-matches
 
 
 
