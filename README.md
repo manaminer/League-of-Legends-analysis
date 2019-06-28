@@ -1,7 +1,7 @@
 # League-of-Legends-analysis
 ### This repository includes some awesome visualizations &amp; data manupilation on League of Legends game.
 
-## This blog post contains some explanations and general overview  https://manaminer.github.io/DataVisualization-and-Manipulating-on-LOL-Game/
+## My website project page contains some explanations and general overview https://visualkushari.com/projects/ 
 
 #### The Dataset is from Kaggle https://www.kaggle.com/paololol/league-of-legends-ranked-matches
 
